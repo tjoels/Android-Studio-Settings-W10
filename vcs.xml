@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/hold1E17/MrMini.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hold17/cphindustries" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\tjc\AndroidStudioProjects" />
